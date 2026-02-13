@@ -8,6 +8,8 @@ h1{
     border-radius: 20px;
     border-color: black;
     border-style: groove;
+    color: magenta;
+    
 }
 ul{
     width: 150px;
